@@ -1,4 +1,4 @@
-# VectorShift Pipeline Builder
+# AI Pipeline Builder
 
 A production-grade visual AI workflow editor built for the VectorShift assessment. It is a mini Zapier x LangFlow experience with a typed React Flow canvas, config-driven nodes, live DAG validation, local persistence, command palette, mock execution preview, and a FastAPI parser endpoint.
 
